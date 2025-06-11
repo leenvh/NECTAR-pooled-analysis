@@ -1,0 +1,1 @@
+Data and code related to "The transmission blocking activity of artemisinin-combination, non-artemisinin, and 8-aminoquinoline antimalarial therapies: a pooled analysis of individual participant data."
